@@ -1,0 +1,27 @@
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acyonym,address,big,cite,code,del,dfn,em,img,ins,kdb,q,s,samp,small,strong,var,b,i,
+dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{ margin:0; padding:0; border:0; outline:0; font-size:100%; vertical-align:baseline; background:transparent;}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{ display:block;}
+body{ font:12px/1.5 tahoma,arial,\5b8b\4f53;}
+textarea{ resize:none;}
+table{ border-collapse:collapse; border-spacing:0;}
+ol,ul,li{ list-style:none;}
+img{ border:0 none;}
+del{ text-decoration:line-through;}
+hr{ display:block; height:1px; border:0; border-top:1px solid #ccc; margin:1em 0; padding:0;}
+blockquote,q{ quotes:none;}
+blockquote:before,blockquote:after,q:before,q:after{ content:''; content:none;}
+input,select,img{ vertical-align:middle;}
+input, textarea{ padding:2px; line-height:normal;}
+a:link,a:visited{ text-decoration:none;}
+a:hover,a:active{ text-decoration:underline;}
+.hide{ display:none;}
+.visible{ visibility:visible;}
+.invisible{ visibility:hidden;}
+.vm{ vertical-align:middle;}
+
+.clr:before,.clr:after{ content:''; display:table;}
+.clr:after{ clear:both;}
+.clr{ *zoom:1;}
+.ib{ display:inline-block; *display:inline; *zoom:1; overflow:hidden;}
+input.calendar{ background:url(http://img05.taobaocdn.com/tps/i5/T1q2tFXjNIXXXXXXXX-19-19.gif) no-repeat right 1px; cursor:pointer; padding-right:20px;}
+html{ overflow-y:scroll;}
